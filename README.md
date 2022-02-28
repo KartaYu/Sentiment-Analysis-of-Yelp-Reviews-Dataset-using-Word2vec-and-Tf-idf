@@ -9,7 +9,7 @@
     * Turn words to frequency data with TfidfTransformer.
     ![image](https://github.com/KartaYu/Sentiment-Analysis-of-Yelp-Reviews-Dataset-using-Word2vec-and-Tf-idf/blob/main/Pic/tfidf.png)
 4. Word2vec
-    * Tuen words to vector with Word2vec.
+    * Convert words to vector with Word2vec.
     ![image](https://github.com/KartaYu/Sentiment-Analysis-of-Yelp-Reviews-Dataset-using-Word2vec-and-Tf-idf/blob/main/Pic/word2vec.png)
 
 ### Model 
