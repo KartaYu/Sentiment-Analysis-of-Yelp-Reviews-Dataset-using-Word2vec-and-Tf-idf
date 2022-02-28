@@ -18,3 +18,4 @@
 - Using scratch k fold cross validation
 - Accuracy of Word2Vec : 0.694
 - Accuracy of -Tf-Idf : 0.7805
+![image](https://github.com/KartaYu/Sentiment-Analysis-of-Yelp-Reviews-Dataset-using-Word2vec-and-Tf-idf/blob/main/Pic/acc.png)
